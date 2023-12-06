@@ -8,6 +8,11 @@ function Home() {
             <h1>img</h1>
            <input type="text" />
            <label htmlFor="">search</label>
+           <h3>Home</h3>
+           <h3>Playlist</h3>
+           <h3>Songs</h3>
+           <h3>Artist</h3>
+           
         </div>
 
     </div>
