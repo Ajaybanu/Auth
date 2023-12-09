@@ -14,6 +14,10 @@ function Home() {
            <h3>Artist</h3>
            
         </div>
+        <div>
+          <h3>logout</h3>
+        </div>
+        
 
     </div>
 
